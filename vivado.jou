@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Sep 26 16:44:42 2021
+# Process ID: 8856
+# Current directory: /home/tungsten/Verilog/majorProject
+# Command line: vivado
+# Log file: /home/tungsten/Verilog/majorProject/vivado.log
+# Journal file: /home/tungsten/Verilog/majorProject/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project /home/tungsten/Verilog/majorProject/majorProject.xpr
+update_compile_order -fileset sources_1
